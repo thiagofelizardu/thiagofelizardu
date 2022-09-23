@@ -1,7 +1,7 @@
 ### Olá Mundo 👋😂
 
 
-- 📖 Atualmente Estudo sistemas de informação na UFPB.
+- 📖 Atualmente Estudo Sistemas de informação na UFPB.
 - ✉️ Meu Contato: thiagofelizardo2@gmail.com
 
 <div align="center">
