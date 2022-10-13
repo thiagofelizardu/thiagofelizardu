@@ -4,7 +4,7 @@
 
 ![thiagofelizardu GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofelizardu&show_icons=true&theme=dark)
 [![thiago Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofelizardu&layout=compact&theme=dark)](https://github.com/thiagofelizardu/github-readme-stats)
-
+<hr>
 ### Linguagens que estou aprendendo na Faculdade e em Casa!
 <div style="Display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
